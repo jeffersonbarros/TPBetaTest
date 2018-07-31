@@ -1,0 +1,10 @@
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\bin\Debug\TPBeta.exe.config
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\bin\Debug\TPBeta.exe
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\bin\Debug\TPBeta.pdb
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.csprojAssemblyReference.cache
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.Form1.resources
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.Properties.Resources.resources
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.csproj.GenerateResource.cache
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.exe
+C:\Users\Jefferson\Documents\Projetos\Windows Forms\TP\TPBeta\TPBeta\obj\Debug\TPBeta.pdb
